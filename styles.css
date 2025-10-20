@@ -23,7 +23,7 @@ body{
     width: 400px;
      background-color: white;
       padding: 10px;
-border-radius: 10%;
+border-radius: 10px;
 
 }
 .main{
@@ -35,7 +35,7 @@ border-radius: 10%;
     background-color: white;
     margin: 20px;
      padding: 10px;
-border-radius: 10%;
+border-radius: 10px;
 
 
 }
@@ -46,7 +46,9 @@ border-radius: 10%;
     margin: 20px;
      background-color: white;
       padding: 10px;
-border-radius: 10%;
+border-radius: 10px;
+gap:10px;
+text-align:center
 
 }
 .whole{
